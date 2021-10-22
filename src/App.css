@@ -1,16 +1,8 @@
 @font-face {
-    font-family: 'Candy Shop Black';
-    src: url(Candy\ Shop\ Black.ttf);
+    font-family: 'Candy Shop';
+    src: url(Candy\ Shop.ttf);
 }
-
-
- .heading{
-    font-family: 'Candy Shop Black';
-    color: rgb(19, 87, 64);
-    font-weight: 200;
-    
-}
-h1{
-    font-family: 'Candy Shop Black';
-    font-size: 50px;
+.heading{
+    font-family: 'Candy Shop';
+    font-weight: 200px;
 }
